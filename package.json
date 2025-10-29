@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
-    "lint": "prettier --write .",
+    "lint:fix": "prettier --write .",
     "lint:check": "prettier --check ."
   },
   "author": "Pedro Haubert",
